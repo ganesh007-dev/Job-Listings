@@ -1,0 +1,11 @@
+/* CSS for Card Component */
+.Card {
+    background-color: #f9f7f7;
+    border-radius: 35px;
+    padding: 10px;
+    box-shadow: 0px 0px 1px 1px rgb(234, 232, 232);
+  }
+a:hover{
+  cursor:pointer;
+}
+
